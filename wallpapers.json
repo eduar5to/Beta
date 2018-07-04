@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "author": "UnSplsh",
+      "url": "https://raw.githubusercontent.com/eduar5to/Beta/master/1530500845393.jpg",
+      "name": "wall1",
+      "thumbnail": "https://raw.githubusercontent.com/eduar5to/Beta/master/1530500945228.jpg"
+    },
+      {
+      "author": "UnSplsh",
+      "url": "https://raw.githubusercontent.com/eduar5to/Beta/master/1530500939613.jpg",
+      "name": "wall2",
+      "thumbnail": "https://raw.githubusercontent.com/eduar5to/Beta/master/1530500951530.jpg"
+    }
+    {
+      "author": "No One",
+      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+      "name": "Drops",
+      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+    }
+  ]
+}
